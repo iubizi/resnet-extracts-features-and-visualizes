@@ -10,6 +10,10 @@ resnet extracts features and visualizes
 
 ## 可视化结果
 
+001 使用resnet152v2提取iris的feature，之后进行tsne可视化
+
+![resnet152v2](https://github.com/iubizi/resnet-extracts-features-and-visualizes/blob/main/resnet152v2.PNG)
+
 002 使用dbscan和tsne可视化经过颜色筛选的csv数据
 
 ![dbscan](https://github.com/iubizi/resnet-extracts-features-and-visualizes/blob/main/dbscan.PNG)
